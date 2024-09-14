@@ -27,3 +27,6 @@ print(' [*] Waiting for messages. To exit press CTRL+C')
 channel.start_consuming()
 channel.close()
 connection.close()
+
+
+# more learning
